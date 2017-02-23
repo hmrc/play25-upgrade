@@ -1,0 +1,3 @@
+# microservice specific routes
+
+GET        /hello-world             uk.gov.hmrc.play25upgrade.controllers.MicroserviceHelloWorld.hello
